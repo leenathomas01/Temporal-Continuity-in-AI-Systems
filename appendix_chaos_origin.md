@@ -1,3 +1,7 @@
+> AI systems are no longer stopping. This repo explores what that changes.
+
+---
+
 # The Chaos Layer
 ### *Original draft — preserved intact*
 
