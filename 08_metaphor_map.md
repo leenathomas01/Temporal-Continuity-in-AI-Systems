@@ -58,4 +58,4 @@ Neither is the full picture without the other.
 
 ---
 
-*Back to [07_chaos_layer.md](./07_chaos_layer.md) or [00_readme.md](./00_readme.md)*
+*Back to [07_chaos_layer.md](./07_chaos_layer.md) or [README.md](./README.md)*
