@@ -94,4 +94,4 @@ Start anywhere. The README has the map.
 
 ---
 
-*[00_readme.md](./00_readme.md) → full index*
+*[README.md](./README.md) → full index*
