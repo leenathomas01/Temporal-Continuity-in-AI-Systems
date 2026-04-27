@@ -97,7 +97,9 @@ The open questions are documented explicitly in each layer file.
 
 Conceptual framework. Grounded in control theory, power systems engineering, and cognitive science analogues. Cross-layer synthesis is the contribution; individual layers draw on existing bodies of work.
 
-Feedback and critique welcome. The open questions in each file are genuine.
+The open questions in each file are genuine.
+
+---
 
 ---
 
